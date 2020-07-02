@@ -1,6 +1,0 @@
-framework module Pods_OpenGLHelloWord {
-  umbrella header "Pods-OpenGLHelloWord-umbrella.h"
-
-  export *
-  module * { export * }
-}
